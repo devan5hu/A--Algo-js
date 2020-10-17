@@ -1,0 +1,11 @@
+{
+  "start": "webpack-dev-server --mode development",
+  "name": "A*-Algo-JS",
+  "version": "1.0.0",
+  "description": "P5.js prject for fun",
+  "main": "index.html",
+  "repository": "https://github.com/devan5hu/A--Algo-js.git",
+  "author": "devan5hu <devanshuchaudhari4@gmail.com>",
+  "license": "MIT",
+  "private": null
+}
